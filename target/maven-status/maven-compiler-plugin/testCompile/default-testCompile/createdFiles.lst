@@ -1,0 +1,10 @@
+za\co\vodacom\utils\WebDriverFactory.class
+za\co\vodacom\steps\login\VodacomLoginSteps.class
+za\co\vodacom\components\Button.class
+za\co\vodacom\components\Input.class
+za\co\vodacom\components\AssertValue.class
+za\co\vodacom\screens\login\ForgotPasswordScreen.class
+za\co\vodacom\screens\login\VodacomLoginScreen.class
+za\co\vodacom\RunCucumberTest.class
+za\co\vodacom\utils\GlueCommon.class
+za\co\vodacom\steps\login\ForgotPasswordSteps.class

@@ -1,0 +1,1 @@
+mvn test "-Dwebdriver.chrome.driver=C:\seleniumdrivers\chromedriver.exe"
